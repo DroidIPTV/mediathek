@@ -1,1 +1,10 @@
-
+<favourites>
+  	<favourite name="Sport" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/sport.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!sport&quot;,return)</favourite>
+  	<favourite name="Doku" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/doku.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!doku&quot;,return)</favourite>
+	<favourite name="Reportage" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/reportage.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!reportage&quot;,return)</favourite>
+	<favourite name="Nachrichten" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/nachrichten.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!nachrichten&quot;,return)</favourite>
+	<favourite name="Ukraine" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/ukraine.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!ukraine&quot;,return)</favourite>
+	<favourite name="Israel" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/israel.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!israel&quot;,return)</favourite>
+	<favourite name="Gaza" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/gaza.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!gaza&quot;,return)</favourite>
+	<favourite name="Russland" thumb="https://raw.githubusercontent.com/DroidIPTV/mediathek/main/rubrik/russland.png">ActivateWindow(10025,&quot;plugin://plugin.video.mediathekviewweb/?action=search_all&amp;query=!russland&quot;,return)</favourite>
+</favourites>
